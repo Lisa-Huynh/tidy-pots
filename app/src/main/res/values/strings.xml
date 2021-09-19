@@ -1,0 +1,19 @@
+<resources>
+    // Home Page
+    <string name="app_name">Tidy Pots</string>
+    <string name="home">HOME</string>
+    <string name="nursery">NURSERY</string>
+    <string name="clear">Clear</string>
+
+    // Overflow Menu
+    <string name="settings">Settings</string>
+
+    // Add Page
+    <string name="save">Save</string>
+    <string name="name">name</string>
+    <string name="uploadImage">Upload Image</string>
+
+    // Details Page
+    <string name="unnamed">Unnamed</string>
+
+</resources>
